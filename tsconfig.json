@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "compilerOptions": {
     "lib": [
@@ -39,3 +40,6 @@
     "node_modules"
   ]
 }
+=======
+{ "files": [], "references": [{ "path": "./tsconfig.app.json" }, { "path": "./tsconfig.node.json" }] }
+>>>>>>> d3ffe3b56159a131cc8ff1e708ec15df61576b82
